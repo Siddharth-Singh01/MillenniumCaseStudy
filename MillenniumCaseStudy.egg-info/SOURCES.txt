@@ -1,0 +1,6 @@
+pyproject.toml
+MillenniumCaseStudy.egg-info/PKG-INFO
+MillenniumCaseStudy.egg-info/SOURCES.txt
+MillenniumCaseStudy.egg-info/dependency_links.txt
+MillenniumCaseStudy.egg-info/requires.txt
+MillenniumCaseStudy.egg-info/top_level.txt
